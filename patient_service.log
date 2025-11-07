@@ -1,0 +1,10 @@
+2025-11-07 21:33:43,851 - Listed all patients
+2025-11-07 21:34:17,952 - Patient 2 not found
+2025-11-07 21:34:23,966 - Microservice stopped.
+2025-11-07 21:36:35,765 - Added patient P001: Sarah Nkosi
+2025-11-07 21:38:47,591 - Listed all patients
+2025-11-07 21:38:58,872 - Added patient P001: ('name:{name}', 'condition:{condition}')
+2025-11-07 21:40:11,829 - Listed all patients
+2025-11-07 21:40:15,390 - Patient 2 not found
+2025-11-07 21:40:27,423 - Added patient P001: Sarah Nkosi
+2025-11-07 21:40:32,806 - Retrieved patient P001
