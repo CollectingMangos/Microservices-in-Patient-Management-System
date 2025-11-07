@@ -8,3 +8,8 @@
 2025-11-07 21:40:15,390 - Patient 2 not found
 2025-11-07 21:40:27,423 - Added patient P001: Sarah Nkosi
 2025-11-07 21:40:32,806 - Retrieved patient P001
+2025-11-07 21:46:35,778 - Added patient P001: Sarah Nkosi
+2025-11-07 21:46:56,314 - Retrieved patient P001
+2025-11-07 21:47:41,136 - Added patient P002: Thabo Dlamini
+2025-11-07 21:47:44,012 - Listed all patients
+2025-11-07 21:48:00,695 - Microservice stopped.
